@@ -3,7 +3,7 @@
   "category": "equipment",
   "key": {
     "X": {
-      "tag": "#nmo:ingots"
+      "tag": "#c:ingots/beryllium"
     }
   },
   "pattern": [

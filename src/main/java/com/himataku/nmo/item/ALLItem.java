@@ -24,7 +24,13 @@ public class ALLItem {
             "mercury", "lead", "cobalt", "tin",
             "aluminum", "cesium", "rubidium", "lithium",
             "magnesium", "uranium", "thorium", "silver",
-            "copper", "gold", "iron", "netherite", "steel"
+            "copper", "gold", "iron", "netherite", "steel",
+            "zigget", "pladiamond", "regakingstone", "adamant",
+            "orichalcum", "hihiirokane", "mithril", "eleckinite",
+            "qeohu", "pallnium", "maclot", "degolast", "aquored",
+            "zigget_k", "zigget_p", "zigget_q", "zigget_crystal",
+            "zigget_core", "zigget_procreativemode", "zigget_creativemode",
+            "zigget_modern", "nullmelon", "sim_oxy", "sim_iron"
     };
 
 
